@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhaygill
-- 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Full Stack Development.
 - 💞️ I’m looking for internship
 
 
