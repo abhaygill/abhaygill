@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhayGILL
 - 👀 I’m interested in Full Stack Development.
-- 💞️ I’m looking for internship
+- 💞️ I’m looking for relationship.
 
 
 <!---
