@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhayGILL
-- 👀 I’m interested in Full Stack Development.
+- 👀 I’m interested in Data Science.
 - 💞️ I’m looking for internship.
 
 
